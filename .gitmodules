@@ -1,0 +1,11 @@
+[submodule "Config_42"]
+	path = Config_42
+	url = https://github.com/Maxstasia/
+
+[submodule "Piscine"]
+	path = Piscine
+	url = https://github.com/Maxstasia/Piscine
+
+[submodule "Tronc_Commun"]
+	path = Tronc_Commun
+	url = https://github.com/Maxstasia/Tronc_Commun

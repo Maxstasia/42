@@ -1,0 +1,9 @@
+{
+    "42header.email": "mstasiak@42.fr",
+	"42header.username": "mstasiak",
+	"files.associations": {
+		"libft.h": "c",
+		"ft_itoa.C": "cpp",
+		"main.C": "cpp"
+	}
+}
