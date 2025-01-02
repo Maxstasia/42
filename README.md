@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ██████╗ ███████╗ █████╗ ██████╗       ███╗   ███╗███████╗
 ██╔══██╗██╔════╝██╔══██╗██╔══██╗      ████╗ ████║██╔════╝
 ██████╔╝█████╗  ███████║██║  ██║█████╗██╔████╔██║█████╗  
@@ -48,3 +49,7 @@ Here, I share all my code, but I want to emphasize that these are my solutions, 
 ---
 
 Good luck
+=======
+# 42
+Mon cursus 42 avec quelques bonus
+>>>>>>> 46a8eb9ddef560b6ae5650800c3addd2bf84239e
