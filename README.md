@@ -1,2 +1,2 @@
 # 42
-Mon cursus 42 avec quleques bonus
+Mon cursus 42 avec quelques bonus
