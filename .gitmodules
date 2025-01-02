@@ -1,6 +1,6 @@
 [submodule "Config_42"]
 	path = Config_42
-	url = https://github.com/Maxstasia/
+	url = https://github.com/Maxstasia/Config_42
 
 [submodule "Piscine"]
 	path = Piscine
